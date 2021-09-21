@@ -1,0 +1,21 @@
+{
+  "name": "fullstackindex",
+  "version": "1.0.0",
+  "description": "simple site with backend",
+  "main": "main.js",
+  "scripts": {
+    "serve": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.1.1",
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
